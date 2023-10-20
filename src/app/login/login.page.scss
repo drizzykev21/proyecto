@@ -1,5 +1,5 @@
 ion-content{
-  --ion-background-color:#093A3E;
+  --ion-background-color:#57bcff;
 }
 #avatar-container {
   text-align: center;
@@ -31,12 +31,12 @@ ion-content{
 
 ion-card {
   margin-top: 30px;
-  background-color: white;
+  background-color: #57bcff;
   border-radius: 100px;
 }
 
 ion-card-title {
-  color: white;
+  color: #1b5983;
   font-size: 30px;
   font-weight: 400;
   width: 100px;
@@ -58,21 +58,21 @@ ion-input{
   margin-left: 10%;
   margin-right: 10%;
   width: 80%;
-  --ion-color-success:#3AAFB9;
+  --ion-color-success:#57bcff;
   box-sizing: border-box;
 }
 
 ion-toggle{
-  --handle-background:#3AAFB9;
+  --handle-background:#57bcff;
   --track-background:#cecece;
-  --handle-background-checked:#3AAFB9;
-  --track-background-checked:#64E9EE;
+  --handle-background-checked:#57bcff;
+  --track-background-checked:#57bcff;
   }
 
 ion-button{
-  --background: #3AAFB9;
-  --background-hover: #64E9EE;
-  --color: white;
+  --background: #57bcff;
+  --background-hover: #085080;
+  --color: #ffffff;
   --font-weight: 500;
 }
 
@@ -81,7 +81,7 @@ a{
   text-decoration: none;
 }
   a:hover{
-    color:#64E9EE;
+    color:#05273d;
     text-decoration:underline;
   }
   

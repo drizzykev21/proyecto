@@ -1,5 +1,5 @@
 ion-content{
-    --ion-background-color:#093A3E;
+    --ion-background-color:#57bcff;
   }
 
   ion-toolbar {
@@ -12,12 +12,12 @@ ion-content{
     margin-top: 40%;
     left: 0;
     right: 0;
-    background-color: white;
+    background-color: #0c7dc9;
     border-radius: 100px;
   }
 
   ion-card-title {
-    color: #3AAFB9;
+    color: #ffffff;
     font-size: 25px;
     font-weight: 400;
     width: 200px;
@@ -40,11 +40,11 @@ ion-content{
     margin-right: 10%;
     text-indent:15px;
     width: 80%;
-    --ion-color-success:#3AAFB9;
+    --ion-color-success:#57bcff;
   }
   
   ion-button{
-    --background: #3AAFB9;
+    --background: #3188c2;
     --background-hover: #64E9EE;
     --color: white;
     --font-weight: 500;

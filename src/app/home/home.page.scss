@@ -1,9 +1,9 @@
 ion-content{
-  --ion-background-color:white;
+  --ion-background-color:rgb(114, 197, 223);
 }
 
 ion-toolbar {
-  --background: #3AAFB9;
+  --background: #57bcff;
   text-align: center;
   height: fit-content;
 }
@@ -18,11 +18,11 @@ ion-label{
   text-indent: 40px;
 }
 ion-col{
-  color: #3AAFB9;
+  color: #57bcff;
   font-weight: 600;
   border-radius: 20px;
   border: 4px solid;
-  border-color: #3AAFB9;
+  border-color: #57bcff;
   background-color: #B6F6F8;
   text-align: center;
   padding-top: 15px
